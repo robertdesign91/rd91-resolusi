@@ -1,3 +1,4 @@
 RD91 RESOLUSI
 - konsisten membuat konten minimal 2x seminggu
 - Membuat platform untuk mengelola video
+- Membuat Vlog
